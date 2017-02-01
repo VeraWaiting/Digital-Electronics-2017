@@ -3,7 +3,7 @@ Digital Electronics - Homework 1
 
 
 
-1. Singing Plant:
+I. Singing Plant:
 http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
 
 The plant will make sounds when someone touches it.
@@ -11,7 +11,7 @@ The plant will make sounds when someone touches it.
 
 
 
-2. Sensors:
+II. Sensors:
 
 Force sensitive resistor (FSR) - Thin sensor that detects physical pressure, squeezing and weight.
 
