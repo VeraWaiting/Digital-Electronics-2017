@@ -4,6 +4,7 @@ Digital Electronics - Homework 1
 
 
 I. Singing Plant:
+
 http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
 
 The plant will make sounds when someone touches it.
@@ -13,11 +14,16 @@ The plant will make sounds when someone touches it.
 
 II. Sensors:
 
-Force sensitive resistor (FSR) - Thin sensor that detects physical pressure, squeezing and weight.
+Force sensitive resistor (FSR) - detects physical pressure, squeezing and weight.
 
-Photocells - Used to detect light/dark, breakbeams, simple object detection
-Temperature - Used to determine environmental temperature
-Tilt sensors - Used to detect motion/vibration and orientation.
-PIR sensors - Used to detect motion activity such as animals or people
-Thermocouple - Used for temperature measurements, usually those above 150°C
-IR receivers - Used to detect IR signals from remote controls
+Photocells - detect light/dark, breakbeams, simple object detection
+
+Temperature - determine environmental temperature
+
+Tilt sensors - detect motion/vibration and orientation or inclination
+
+PIR sensors - detect motion, almost always used to detect whether a human has moved in or out of the sensors range
+
+Thermocouple - temperature measurements, usually those above 150°C
+
+IR receivers - detect IR signals from remote controls
