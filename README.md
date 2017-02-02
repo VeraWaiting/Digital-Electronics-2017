@@ -3,12 +3,16 @@ Digital Electronics - Homework 1
 
 
 
-I. Singing Plant:
+I. 
 
 http://www.instructables.com/id/Singing-plant-Make-your-plant-sing-with-Arduino-/
 
 The plant will make sounds when someone touches it.
 "By connecting a capacitance sensor to a plant we can detect if people are touching it and convert the touch into sound."
+
+https://blog.arduino.cc/2016/07/13/interactive-sidewalks-plays-music-to-your-shadows/
+
+Mesa Musical Shadows is a public installation that turns the sidewalk of Arizona’s Mesa Arts Center into a super-sized dance pad which reacts to the shadows of passersby with the sounds of singing.
 
 
 
