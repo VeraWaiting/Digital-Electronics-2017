@@ -14,4 +14,7 @@ It demonstrates the healing power of music.
 
 3. In progress
 
-4. Ligt sensors 
+4. Light sensors are used to control different chords (piano or harp).
+Distance sensors are used to control the speed of arpeggio.
+Touch/force sensors are used to produce sounds of nature, like sound of wind, rain, thunder, water drops, bird singing, etc.
+All the sounds will be produced by computer.
