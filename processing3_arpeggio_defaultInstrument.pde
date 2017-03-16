@@ -1,3 +1,5 @@
+// Vera Wei Wang wrote this code in 2017
+
 import processing.serial.*;
 import ddf.minim.signals.*;
 import ddf.minim.*;
