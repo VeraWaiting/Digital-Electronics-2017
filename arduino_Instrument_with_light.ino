@@ -1,3 +1,5 @@
+// Vera Wei Wang wrote this code in 2017
+
 const int kNumPins = 6;
 const int inputs[kNumPins] = {A0, A1, A2, A3, A4, A5};
 const int leds[kNumPins] = {9, 8, 7, 6, 5, 4};
