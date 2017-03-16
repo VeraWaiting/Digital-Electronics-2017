@@ -13,3 +13,4 @@ Sounds are produced by computer, using Minim library of Processing.
 - Continuing 
 
 I'm still working on it. I'll solder a circuit board for it to replace the breadboard. And I'll create a beautiful appearence for it.
+
