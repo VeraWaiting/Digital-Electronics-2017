@@ -48,3 +48,5 @@ Ada Sensors: http://www.ladyada.net/learn/sensors/
 
 ## Week 9: Thursday, Mar 16, 2017
 
+## Week 10: Thursday, March 30, 2017
+
