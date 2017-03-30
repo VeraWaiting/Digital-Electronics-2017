@@ -1,5 +1,7 @@
 # LED-dress
 
+https://github.com/VeraWaiting/LED-Dress
+
 ### Brief
 
 I'm always crazy about beautiful dresses and glittering things. Thus I want to combine them together.
