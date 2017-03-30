@@ -1,5 +1,7 @@
 # Arduino Piano
 
+https://github.com/VeraWaiting/Arduino-Piano
+
 ### Brief 
 
 As a person who have played the piano for more than ten years, I want to create a musical instrument that can show the beauty of piano and is easily controlled by those who have never leaned to play the piano.
