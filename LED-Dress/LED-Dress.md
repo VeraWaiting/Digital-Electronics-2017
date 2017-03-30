@@ -5,7 +5,7 @@ https://github.com/VeraWaiting/LED-Dress
 ### Brief
 
 I'm always crazy about beautiful dresses and glittering things. Thus I want to combine them together.
-This is a dress on which the LEDs blink in different colors or patterns according to the wearer's movement.
+This is a dress on which the LEDs blink in different colors or patterns according to the wearer's movement (spinning, jumping, running).
 I look forward to see someone dancing in it.
 
 ### Technology
