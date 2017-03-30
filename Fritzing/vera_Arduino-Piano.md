@@ -10,4 +10,4 @@ pcb version 1
 
 pcb version 2
 
-![vera_arduino-piano 2_pcb 2](https://cloud.githubusercontent.com/assets/23609156/24525086/db3d5b7c-154d-11e7-9b59-682cd6a62dc7.png)
+![vera_arduino-piano 2_pcb](https://cloud.githubusercontent.com/assets/23609156/24525298/9d5b2356-154e-11e7-8836-702386735a01.png)
