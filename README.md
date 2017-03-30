@@ -1,13 +1,3 @@
-### Final Project:
-
-https://github.com/VeraWaiting/LED-dress
-
-### Arduino Piano
-
-https://github.com/VeraWaiting/Arduino-Piano
-
-
-
 # Digital Electronics 2017
 
 Class Repository: https://github.com/michaelshiloh/Mechatronics-Spring-2017
