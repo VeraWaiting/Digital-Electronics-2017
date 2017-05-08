@@ -31,3 +31,5 @@ pcb:
 I'm still working on it. I'll solder a circuit board for it to replace the breadboard. And I'll create a beautiful appearence for it.
 
 ![img_5006](https://cloud.githubusercontent.com/assets/23609156/23991572/05cc9fb8-09f7-11e7-9e3c-5533777cb6e0.jpg)
+
+![img_5708](https://cloud.githubusercontent.com/assets/23609156/25776976/346d2e46-3283-11e7-8903-cb94ad444824.jpg)
