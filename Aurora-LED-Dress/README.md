@@ -1,4 +1,4 @@
-# Aurora Dress
+# Aurora LED Dress
 
 ### Demostration Videos
 
