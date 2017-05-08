@@ -2,6 +2,7 @@
 
 I mainly did two projects in this course, Arduino Piano and Aurora Dress.
 I learned a lot and I feel much more confident now in dealing with arduino, circuits, sensors, and soldering works.
+Thank you.
 
 ## Resources: 
 
