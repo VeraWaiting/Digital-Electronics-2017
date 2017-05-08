@@ -1,12 +1,13 @@
 # Digital Electronics 2017
 
+I mainly did two projects in this course, Arduino Piano and Aurora Dress.
+I learned a lot and I feel much more confident now in dealing with arduino, circuits, sensors, and soldering works.
+
+## Resources: 
+
 Class Repository: https://github.com/michaelshiloh/Mechatronics-Spring-2017
 
 Resources for Classes: https://github.com/michaelshiloh/resourcesForClasses
-
-
-
-## Other Sources: 
 
 Arduino: https://www.arduino.cc/en/Reference/HomePage
 
